@@ -1,11 +1,4 @@
-#Pesonal info:
-NAME : VIGNESH K
-ROLL NUMBER : 20BCS117
-EMAIL : gkvignesh0001@gmail.com
-COLLEGE : MEPCO SCHLENK ENGINEERING COLLEGE
-CONTACT : 8220407962
 
-Educational Initiatives Off-Campus Drive (KLN Engineering College, Madurai)
 
 #Virtual Classroom Manager Programming Exercise
 #Problem Statement
